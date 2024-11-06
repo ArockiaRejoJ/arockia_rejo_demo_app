@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687714133058",
+    "project_id": "assessment-app-89e19",
+    "storage_bucket": "assessment-app-89e19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687714133058:android:429e0b66deac81fe9679db",
+        "android_client_info": {
+          "package_name": "com.rejo.assessment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO87Y5zNFku1niiqbNXnqvsO9JZ1owkaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
