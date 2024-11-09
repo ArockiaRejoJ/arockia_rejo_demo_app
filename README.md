@@ -56,9 +56,8 @@
  4) Application fetch the data both online and offline, In offline images will not appear as of now, work in progress
 
 # Screenshots
-![Screenshot_20241106_183637](https://github.com/user-attachments/assets/20961a67-b2c0-43fd-b8ab-c54bf3f592ef)
-![Screenshot_20241106_183658](https://github.com/user-attachments/assets/9a877aa1-d4eb-4fbe-8744-bd52726f3769)
-![Screenshot_20241106_192400](https://github.com/user-attachments/assets/d666ba42-dd45-4960-91b3-094e05cd6847)
+![WhatsApp Image 2024-11-09 at 6 27 34 PM (1)](https://github.com/user-attachments/assets/ba40444b-f57b-40b2-9fbb-daefb146533b)
+
 
 
 
