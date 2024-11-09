@@ -56,8 +56,7 @@
  4) Application fetch the data both online and offline, In offline images will not appear as of now, work in progress
 
 # Screenshots
-https://github.com/ArockiaRejoJ/arockia_rejo_demo_app/blob/main/assets/images/BG.png?raw=true
-https://drive.google.com/file/d/1NrPBYmaEPYUtXurGZ7JUnFIEDuScwmhY/view?usp=sharing
+![Screenshot_20241106_183637](https://github.com/user-attachments/assets/20961a67-b2c0-43fd-b8ab-c54bf3f592ef)
 
 
 # Website : https://www.arockiarejo.com/
