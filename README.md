@@ -55,6 +55,9 @@
  3) Upon successful login, you'll be taken to the main screen, where you can view product categories and products.
  4) Application fetch the data both online and offline, In offline images will not appear as of now, work in progress
 
+# Screenshots
+
+https://drive.google.com/file/d/1NrPBYmaEPYUtXurGZ7JUnFIEDuScwmhY/view?usp=sharing
 
 
 # Website : https://www.arockiarejo.com/
