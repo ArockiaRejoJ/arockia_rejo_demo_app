@@ -59,7 +59,7 @@ class MyApp extends StatelessWidget {
             // Main MaterialApp with authentication check
             builder: (context, auth, _) => MaterialApp(
               debugShowCheckedModeBanner: false,
-              title: 'Arockia Rejo - Royal Class Flutter Assessment Application',
+              title: 'Arockia Rejo - Demo Application',
               theme: ThemeData(
                 scaffoldBackgroundColor: bgColor,
                 fontFamily: GoogleFonts.poppins().fontFamily,

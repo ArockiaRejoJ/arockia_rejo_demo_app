@@ -1,5 +1,5 @@
 
-## Arockia Rejo - Royal Class Flutter Assessment Application
+## Arockia Rejo - Demo Application
 
 ## Getting Started
 
@@ -56,11 +56,6 @@
  4) Application fetch the data both online and offline, In offline images will not appear as of now, work in progress
 
 
-* I was working on a card design similar to Figma; when it's finished, I'll post an update here and send out an email as well.
-
-# Thank you for giving me this amazing chance to express myself #
-
-My Portfolio :
 
 # Website : https://www.arockiarejo.com/
 # Email : arockiarejocs@gmail.com
